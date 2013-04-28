@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AngularJS Phone Catalog Tutorial Application
 
 ## Overview
@@ -253,4 +252,3 @@ angularjs-tutorial
 ==================
 
 Just a sample application built on AngularJS, based on tutorial in official documentation.
->>>>>>> 7fc7c4a06847e0552a65c577c72fb6a57753fefe
